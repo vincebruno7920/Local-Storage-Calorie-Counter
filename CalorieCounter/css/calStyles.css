@@ -1,0 +1,38 @@
+.wrapper{
+    width: 80%;
+    background-color: rgba(0, 0, 0, 0.1);
+    margin: 5em auto;
+    border: 2px solid black;
+
+}
+.container{
+    width: 70%;
+    margin: 0 auto;
+
+}
+body {
+    background-color: white;
+    font-family: sans-serif;
+}
+h1 {
+    background-color: rgba(0, 0, 255, .5);
+    text-align: center;
+
+}
+.infoP{
+    margin: 2em auto -2em auto;
+    text-align: center;
+}
+fieldset {
+    margin-bottom: 2em;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 5px;
+}
+footer {
+    text-align: center;
+}
+#about {
+    width: 70%;
+    margin: 0 auto;
+}
